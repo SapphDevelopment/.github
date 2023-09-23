@@ -4,7 +4,7 @@
     <a href="https://paypal.me/sapphiredevs">
         <img src="https://img.shields.io/badge/Paypal-Donate?style=for-the-badge&logo=paypal&label=Donate&color=008cd4" alt="Donate on PayPal">
     </a>
-    <a href="https://ko-fi.com/sapphirede/">
+    <a href="https://ko-fi.com/sapphiredev">
         <img src="https://img.shields.io/badge/Kofi-Support?style=for-the-badge&logo=kofi&label=Support&color=ff5e5b" alt="Support on Ko-Fi">
     </a>
     <a href="https://discord.gg/75QR5duadJ">
