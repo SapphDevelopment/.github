@@ -47,7 +47,7 @@ To ensure a friendly and inclusive environment, we've established a [Code of Con
 
 ## 📝 License
 
-All our projects are released under the [MIT License](https://github.com/SapphDevelopment/.github/blob/main/profile/LICENSE), providing you with the freedom to use, modify, and distribute our code.
+All our projects are released under the [GPL-3.0 license](https://github.com/SapphDevelopment/.github/blob/main/profile/LICENSE), providing you with the freedom to use, modify, and distribute our code.
 
 ---
 
