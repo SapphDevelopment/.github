@@ -39,7 +39,7 @@ We welcome contributors of all skill levels and backgrounds. If you're excited a
 Connect with us on social media to stay updated on the latest happenings, events, and project releases:
 
 - Follow us on [X](https://x.com/duckodas)
-- Join our discussions on [Discord](https://sapph.ducko.dev/discord)
+- Join our discussions on [Discord](https://discord.gg/75QR5duadJ)
 
 ## 🌈 Code of Conduct
 
